@@ -1,0 +1,271 @@
+Source:http://geoportal.cuzk.cz/
+
+INSPIRE theme Administrative Units (AU)
+The data correspond to the INSPIRE Directive for the theme Administrative Units (AU). Data are based primarily on the project RÚIAN (register of territorial identification, addresses and real estates), which is part of the Basic Registers of Czech Republic and contains information about identification, addresses and real estates. Data published in the INSPIRE harmonized dataset on Administrative Units contain only administrative units, their boundaries and statistical units NUTS 1 and NUTS 3, which are on the same level as the country and region in the Czech Republic. Administrative units are country, regions, districts and municipalities. The data set covers the whole area of Czech Republic. Administrative boundaries are routed between common boundary points of three administrative units at the lowest level of division, ie. municipalities. More in the Act no. 111/2009 Coll., on the basic registers, in Decree no. 359/2011 Coll., on the basic register of territorial identification, addresses and real estates in the current versions and in the INSPIRE Data Specification on Administrative Units v 3.0.1 from 2010-04-26. Municipality Strý?ice is missing in the data, because it has no Cadastral zoning.
+
+Metadata about metadata
+Data identification
+Reference system (horizontal, vertical or temporal)
+Distribution
+Data quality
+Metadata about metadata
+
+Metadata record identifier: CZ-CUZK-AU
+Metadata language: cze
+Character set: utf8
+Master metadata record identifier:
+Source type: series
+Name of hierarchy level: META_AU_SERIES
+Contact - metadata
+Person name:
+Name of the organisation: Czech Office for Surveying, Mapping and Cadastre
+Responsible organisation information
+Contact phone
+Phone: +420 284 044 455
+Fax: +420 284 041 557
+Address
+Delivery place: Pod sídlišt?m 1800/9
+City: Kobylisy
+ZIP code: 182 11 Praha 8
+Country: Czech Republic
+E-mail: cuzk.helpdesk@cuzk.cz
+Online source
+Link: http://geoportal.cuzk.cz
+Contact hours: Mo-Fr 7:00 AM - 5:00 PM CET
+Supplementary information:
+Role: pointOfContact
+Metadata date: 2016-02-14
+Metadata standard name: ISO19115 (?ÚZK profile)
+Metadata standard version: 2003/Cor.1:2006
+Data identification
+
+Citation
+Source name: INSPIRE theme Administrative Units (AU)
+Alternative name: AU
+Reference datum
+Reference date: 2016-02-14
+Event: revision
+Reference date: 2013-09-29
+Event: creation
+Data identifier
+Unique identifier: CZ-00025712-CUZK_AU
+Name space: ?ÚZK
+Unique identifier: Commercial code is not defined.
+Name space: ?ÚZK
+Contact to the organisation responsible for the data
+Person name:
+Name of the organisation: Czech Office for Surveying, Mapping and Cadastre
+Responsible organisation information
+Contact phone
+Phone: +420 284 044 455
+Fax: +420 284 041 557
+Address
+Delivery place: Pod sídlišt?m 1800/9
+City: Kobylisy
+ZIP code: 182 11 Praha 8
+Country: Czech Republic
+E-mail: cuzk.helpdesk@cuzk.cz
+Online source
+Link: http://geoportal.cuzk.cz
+Contact hours: Mo-Fr 7:00 AM - 5:00 PM CET
+Supplementary information:
+Role: pointOfContact
+Other information:
+Abstract: The data correspond to the INSPIRE Directive for the theme Administrative Units (AU). Data are based primarily on the project RÚIAN (register of territorial identification, addresses and real estates), which is part of the Basic Registers of Czech Republic and contains information about identification, addresses and real estates. Data published in the INSPIRE harmonized dataset on Administrative Units contain only administrative units, their boundaries and statistical units NUTS 1 and NUTS 3, which are on the same level as the country and region in the Czech Republic. Administrative units are country, regions, districts and municipalities. The data set covers the whole area of Czech Republic. Administrative boundaries are routed between common boundary points of three administrative units at the lowest level of division, ie. municipalities. More in the Act no. 111/2009 Coll., on the basic registers, in Decree no. 359/2011 Coll., on the basic register of territorial identification, addresses and real estates in the current versions and in the INSPIRE Data Specification on Administrative Units v 3.0.1 from 2010-04-26. Municipality Strý?ice is missing in the data, because it has no Cadastral zoning.
+Purpose: Implementation of the Act 111/2009 Coll., on the basic registers (http://portal.gov.cz/app/zakony/zakonPar.jsp?idBiblio=68500&fulltext=&nr=111~2F2009&part=&name=&rpp=15#local-content), decree 359/2011 Coll., on the Registry of Territorial Identification, Addresses and Real Estates (http://portal.gov.cz/app/zakony/zakonStruct.jsp?idBiblio=75429&fulltext=&nr=359~2F2011&part=&name=&rpp=15#local-content) and transposition of the INSPIRE Directive into Czech legislation by the amendment of Act 123/1998 Coll., on the right to information about the environment (http://portal.gov.cz/app/zakony/zakonStruct.jsp?idBiblio=46636&fulltext=&nr=123~2F1998&part=&name=&rpp=15#local-content).
+Responsible organisation
+Person name:
+Name of the organisation: Czech Office for Surveying, Mapping and Cadastre
+Responsible organisation information
+Contact phone
+Phone: +420 284 044 455
+Fax: +420 284 041 557
+Address
+Delivery place: Pod sídlišt?m 1800/9
+City: Kobylisy
+ZIP code: 182 11 Praha 8
+Country: Czech Republic
+E-mail: cuzk.helpdesk@cuzk.cz
+Online source
+Link: http://geoportal.cuzk.cz
+Contact hours: Mo-Fr 7:00 AM - 5:00 PM CET
+Supplementary information:
+Role: custodian
+Maintenance info
+Maintenance and update frequency: continual
+Date of planned source revision:
+Maintenance note: Pre-defined datasets are generated daily. Data purchased by WMS or WFS services are updated in hours.
+Keywords
+Keyword: Správní jednotky
+Officially registered thesaurus
+Name: GEMET - INSPIRE themes, version 1.0
+Reference datum
+Reference date: 2008-06-01
+Event: publication
+Organisation responsible for the thesaurus:
+Name of the organisation: Joint Research Centre
+Role: pointOfContact
+Keywords
+Keyword: municipality
+Keyword: administrative boundary
+Keyword: geographical name
+Keyword: territorial unit
+Officially registered thesaurus
+Name: The Dictionary of COSMC
+Reference datum
+Reference date: 2008-06-01
+Event: publication
+Organisation responsible for the thesaurus:
+Name of the organisation: Czech office for Surveying, Mapping and Cadastre
+Role: pointOfContact
+Keywords
+Keyword: The register of territorial identification, addresses and real estates (RÚIAN)
+Keyword: information system of territorial identification (ISÚI)
+Keyword: administrative unit
+Keyword: country
+Keyword: higher territorial self-governing unit (VÚSC)
+Keyword: district
+Keyword: NUTS region
+Keyword: GML
+Officially registered thesaurus
+Name: Other keywords
+Reference datum
+Reference date: 2013-03-05
+Event: publication
+Organisation responsible for the thesaurus:
+Name of the organisation: Czech office for Surveying, Mapping and Cadastre
+Role: pointOfContact
+Source restriction
+Source legislative restrictions
+Access and use terms: Public access is not rescticted and is provided in accordance with Decree No. 359/2011 Coll., on the register of territorial identification, addresses and real estates and law 123/1998 Sb., on the right to information about the environment.
+Public access restriction: otherRestrictions
+Other restrictions: open data
+Data security restrictions
+Classification: unclassified
+Type of spatial representation: vector
+Spatial resolution
+Correspondent scale
+Scale factor: 0
+Source language: cze
+Character set: utf8
+Thematic category: boundaries
+Data extension
+Extent information: 100% area of the Czech Republic, i.e. 78 868 km2 (to 31st December 2014); municipality Strý?ice has no cadastral zoning, therefor it is not included in a data.
+Geographic limitations
+Minimal bounding box
+Westernmost coordinate: 12
+Easternmost coordinate: 19
+Southernmost coordinate: 48.5
+Northernmost coordinate: 51.5
+Time extent -
+Altitude extension
+Minimal value:
+Maximal value:
+Vertical datum:
+Reference system (horizontal, vertical or temporal)
+
+Coordinate reference system identifier
+Reference system citation
+Source name: European Terrestrial Reference System 1989
+Alternative name:
+Reference date
+Reference date: 2010-03-01
+Event: revision
+Other information:
+Code: http://www.opengis.net/def/crs/EPSG/0/4258
+Name space: EPSG
+Coordinate reference system identifier
+Reference system citation
+Source name:
+Alternative name: Datum of Uniform Trigonometric Cadastral Network
+Reference date
+Reference date: 2011-05-09
+Event: revision
+Other information:
+Code: http://www.opengis.net/def/crs/EPSG/0/5514
+Name space: EPSG
+Distribution
+
+Distribution formate
+Name: GML
+Version: 3.2.1
+Specification: INSPIRE Data Specification on Administrative Units version 3.0.1
+Distributor
+Contact information:
+Name of the organisation: Czech Office for Surveying, Mapping and Cadastre
+Responsible organisation information
+Contact phone
+Phone: +420 284 044 455
+Fax: +420 284 041 557
+Address
+Delivery place: Pod Sídlišt?m 1800/9
+City: Kobylisy
+ZIP code: 182 11 Praha 8
+Country: Czech Republic
+E-mail: cuzk.helpdesk@cuzk.cz
+Online source
+Link: http://geoportal.cuzk.cz/
+Contact hours: Mo-Fr 7:00 AM - 5:00 PM CET
+Supplementary information:
+Role: distributor
+Means of order
+Charges: No fees
+Transfer possibilities
+Units of distribution:
+Size of transfer unit in MB: 75
+Online
+Link: http://services.cuzk.cz/wfs/inspire-au-wfs.asp
+Link: http://services.cuzk.cz/wfs/inspire-au-wfs.asp?service=WFS&amp;request=GetCapabilities
+Link: http://services.cuzk.cz/wms/inspire-au-wms.asp
+Link: http://services.cuzk.cz/wms/inspire-au-wms.asp?request=GetCapabilities
+Link: http://services.cuzk.cz/gml/inspire/au/epsg-4258/
+Link: http://services.cuzk.cz/gml/inspire/au/epsg-5514/
+Link: http://geoportal.cuzk.cz/geoprohlizec/?wmcid=4365
+Offline
+Name: onLine
+Data quality
+
+Level of scope
+Quality description level: series
+Report - INSPIRE compliance
+Test identifier: CZ-00025712-CUZK_AU-DQ_DomainConsistency-1
+Conformity
+Specification
+Name: Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services
+Alternative name: Data specification on INSPIRE theme Administrative Units version 3.0.1
+Reference date
+Reference date: 2010-12-08
+Event: publication
+Test description: Data set series conformity testing with INSPIRE implementing rules for spatial data sets and services interoperability.
+Degree of conformity: true
+Report - INSPIRE compliance
+Test identifier: CZ-00025712-CUZK_AU-DQ_DomainConsistency-2
+Conformity
+Specification
+Name: INSPIRE Data Specification on Administrative Units – Guidelines v. 3.0.1
+Alternative name: INSPIRE data specification on theme Administrative Units version 3.0.1.
+Reference date
+Reference date: 2010-04-26
+Event: publication
+Test description: AU data set series conformity testing with INSPIRE data specification on Administrative Units.
+Degree of conformity: true
+Report – completness – omission
+Measure name:
+Measure identification: CZ-00025712-CUZK_AU-DQ_CompletenessOmission-1
+Measure description: Evaluation of completeness of Czech Republic territory coverage by the AU data set serie.
+Date and time of the measure: 2016-02-14T12:00:00
+Test result – quantitative
+Value domain: %
+Units of measure: http://geoportal.gov.cz/res/units.xml#percent
+Value: 100
+Report – completness – omission
+Measure name: Evaluation of completeness of municipalities in the data set serie.
+Measure identification: CZ-00025712-CUZK_AU-DQ_CompletenessOmission-2
+Measure description: Number of municipalities missing in AU data set serie.
+Date and time of the measure: 2016-02-14T12:00:00
+Test result – quantitative
+Value domain: po?et obcí
+Units of measure: http://geoportal.gov.cz/res/units.xml#unit
+Value: 1
+Data origin
+Data origin information: INSPIRE theme Administrative Units data comes from the The register of territorial identification, addresses and real estates (RÚIAN), which was built for the purpose of sharing reference data on territorial elements , land registration units and addresses for the need of public administration in the Czech Republic. It was officially launched on the 1st July 2012, together with other basic registers. It was created on a data from UIR-ADR (land identification register administered by the MPSV), RSO (Register of Enumeration Districts and Buildings managed by the CSO) and ISKN (Land Registry Information System managed by COSMC). RÚIAN is continuously updated. The change files are generated daily and state files are generated monthly in the Ruian Exchange Format (VFR). Continuous updates are provided by statutory editors. For data in INSPIRE AU data serie that are cadastral offices and COSMC - in accordance with Act No. 111/2009 Coll., on the basic registers and Decree No. 359/2011 Coll., on the basic register territorial identification, addresses and real estates.
